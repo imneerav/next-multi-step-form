@@ -1,0 +1,24 @@
+$primary: #0198D1;
+$light: #5A5B5A;
+$success: #2AB573;
+$white: #fff;
+$input-color: #1E1E1E;
+$input-background-color: #E9E9E9;
+$grey-lighter:#ECECEC;
+$radius-rounded: 9999px;
+$progress-bar-background-color: $primary;
+$progress-value-background-color: $white;
+$input-border-color: $input-background-color;
+$input-radius: 35px;
+
+$size-1: 30px;
+$title-size: 30px;
+$subtitle-size: 20px;
+
+$content-heading-weight:600;
+$content-heading-line-height:26px;
+$desktop: 800px;
+$button-background-color: $success;
+$input-arrow: $primary;
+// Import the bulma-pro
+@import "bulma/bulma.sass"
